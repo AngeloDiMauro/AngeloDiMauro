@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngeloDiMauro
 - 👀 I’m interested in XR, front-end development and UX design
-- 🌱 I’m currently learning VR in Unity, HTML, CSS, JS
+- 🌱 I’m currently learning VR in Unity with C#, HTML, CSS, JS
 - 💞️ I’m looking to collaborate on XR & web design 
 - 📫 How to reach me adimauro@protonmail.com
 
